@@ -5,24 +5,24 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+6283844508188'] 
-global.mods = ['+6283844508188'] 
-global.prems = ['+6283844508188'] 
+global.owner = ['+6281333154367'] 
+global.mods = ['+6281333154367'] 
+global.prems = ['+6281333154367'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Sopiput×፝֟͜×'
-global.numberowner = '+6283844508188'
-global.instagram = 'https://instagram.com/kokopangeran_'
-global.github = 'https://github.com/MendingTuru'
-global.dana = '087832147584'
-global.pulsa = '087832147584'
-global.gopay = '087832147584'
+global.nameowner = 'Zall'
+global.numberowner = '+6281333154367'
+global.instagram = 'https://instagram.com/zallzall02'
+global.github = 'https://github.com/rizalmhmd'
+global.dana = '082322133457'
+global.pulsa = '081333154367'
+global.gopay = '082322133457'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Meii-MD×፝֟͜×'
-global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
-global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/kokopangeran_'
+global.namebot = 'ZALLxBOTZ'
+global.gc = 'timdakk adaa:v'
+global.web = 'https://instagram.com/zallzall02' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/zallzall02'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -32,9 +32,9 @@ global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '©Meii-MD×፝֟͜×'
+global.wm = 'zall'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜSopiput×፝֟͜×'
+global.wm2 = 'ᯤ Creator By ZALLxBOTZ'
 global.wm3 = 'ᯤ Meii-MD×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
