@@ -10,7 +10,7 @@ global.mods = ['+6281333154367']
 global.prems = ['+6281333154367'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Zall'
+global.nameowner = '𝚉𝚊𝚕𝚕'
 global.numberowner = '+6281333154367'
 global.instagram = 'https://instagram.com/zallzall02'
 global.github = 'https://github.com/rizalmhmd'
@@ -19,7 +19,7 @@ global.pulsa = '081333154367'
 global.gopay = '082322133457'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ZALLxBOTZ'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.gc = 'timdakk adaa:v'
 global.web = 'https://instagram.com/zallzall02' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zallzall02'
@@ -32,10 +32,10 @@ global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'zall'
+global.wm = '𝚉𝚊𝚕𝚕'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By ZALLxBOTZ'
-global.wm3 = 'ᯤ Meii-MD×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Meii-MD×፝֟͜×'
+global.wm3 = 'ᯤ 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '©Meii-MD×፝֟͜×'
-global.author = '@Sopiput×፝֟͜×'
+global.packname = '𝚉𝚊𝚕𝚕'
+global.author = '@𝚉𝚊𝚕𝚕'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
